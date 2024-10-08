@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.checkBox{
+  height: 1.5rem;
+  width: 1.5rem;
+  accent-color:  #1e9fbc;
+  cursor: pointer;
+}
+label{
+  cursor: pointer;
+}
